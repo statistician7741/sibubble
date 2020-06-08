@@ -1,0 +1,4 @@
+{
+    "verbose": false,
+    "ignore": ["pages/*", "Component/*", "static/*", "config/*", "node_modules/*", "layouts/*", "redux/*"]
+  }

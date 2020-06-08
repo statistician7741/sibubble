@@ -1,0 +1,2 @@
+export const SET_ORGANIK = 'SET_ORGANIK';
+export const SET_NEW_HANDKEY = 'SET_NEW_HANDKEY';
